@@ -1,10 +1,8 @@
 - 👋 Hi, I’m mostfa mhamed
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning sowftWare engenering (java /c# / python / react native / Node js/ html,css,javaScript /data stracture /asp.net/ mySql/mongoDB/neo4j)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : email : lift.work8@gmail.com 
+- 👀 I’m a programmer
+- 🌱 I’m currently learning sowftWare engeenering (last year)
+- 💞️ i know a few programming languages:  java/c#/typeScript/javaScript/python/dataStructer(java)/react Native/Nodejs/cisco
+- i speak three languages:english:very good/ hebrew: very good / arabic:mother language
+- dataBase:MySql/mongoDB/Neo4j
+- 📫 How to reach me : email/phone Number : lift.work8@gmail.com/ 0503646606 
 
-<!---
-mostfamxm/mostfamxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
